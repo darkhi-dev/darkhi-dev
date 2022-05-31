@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am working on a project for an operating system based on Linux (Crow OS)
+- 🔭 I am working on a project for an operating system based on Linux (Paper Linux )
 - 🌱 I am learning Python
 - 🔒 I love the world of hacking and computer security
 - 👺 I like mangas, computers, ...
